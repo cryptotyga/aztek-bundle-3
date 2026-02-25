@@ -6,3 +6,4 @@ Coordination Layer: A lightweight off-chain relay (like an invisible transaction
 Synchronization Layer: Acts as a "state guardian" to ensure all cosigners have the exact same updated account state before a transaction is finalized.
 Miden and OpenZeppelin co-developed an off-chain architecture (PSM) with three core layers to solve this:
 On Miden, accounts and their states live off-chain on a user's local device. If a signer proposes a transaction, the other signers wouldn't naturally know what the current account state is, creating a massive coordination and synchronization problem.
+On Ethereum (e.g., Safe) or Solana (e.g., Squads), multisigs are easy because everyone can look at the public ledger to see the current balance, who has signed, and what the proposed transaction is.
