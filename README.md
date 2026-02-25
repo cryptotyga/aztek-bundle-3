@@ -52,3 +52,4 @@ Compliant Privacy Pools: Legal, regulator-approved privacy for transferring asse
 
 Cross-Border Payments: Fast, private, and compliant global transfers.
 Integrating Ligero alongside Miden’s native prover adds a layer of systemic security and redundancy to the network.
+Just as Ethereum uses multiple client softwares to prevent a single bug from taking down the network, Miden is moving toward supporting multiple provers.
