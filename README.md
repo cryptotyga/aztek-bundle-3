@@ -27,3 +27,4 @@ Privacy is the feature. Security is the foundation. Together, they unlock instit
 The formula for Real-World Finance on-chain:
 • Miden: Default privacy & infinite scale (ZK + Actor Model).
 • OpenZeppelin: Ironclad smart contract security & standards.
+Institutions won't touch private blockchains without battle-tested security.
