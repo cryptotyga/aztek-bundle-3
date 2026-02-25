@@ -32,3 +32,4 @@ Institutions require a stack that guarantees both Privacy (hiding trading strate
 To scale effectively, Miden needs similar standardized, secure Rust-based components for its developers, drastically reducing the risk of vulnerabilities in custom code.
 OpenZeppelin is the gold standard for EVM smart contract libraries (e.g., ERC-20, AccessControl).
 OpenZeppelin brings battle-tested auditing and security frameworks to ensure Miden's infrastructure is safe for institutional capital.
+Privacy networks introduce novel architectures (like Miden's Actor Model and local execution) which require entirely new security paradigms.
