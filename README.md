@@ -37,3 +37,6 @@ The Miden and OpenZeppelin collaboration bridges the gap between privacy and ins
 Privacy is no longer a niche feature. It’s the prerequisite for bringing real-world finance on-chain.
 The result is Programmable Compliance.
 Institutions get total privacy from the public, but can still encode KYC/AML rules to keep regulators happy.
+Here is the resulting privacy stack:
+• Miden: The on-chain verifiable layer.
+• Ligero: Supercharged client-side proving (1-second mobile proofs).
