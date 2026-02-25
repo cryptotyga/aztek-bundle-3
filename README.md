@@ -21,3 +21,4 @@ Combining Miden’s compliant privacy layer with Para’s frictionless UX enable
 Para uses Distributed Multi-Party Computation (MPC) authentication, meaning users retain full ownership of their cryptographic keys and assets, perfectly aligning with Miden's zero-knowledge execution model.
 Despite the Web2-like login, the wallets remain fully self-custodial.
 Para provides an embedded wallet infrastructure that allows users to sign in with familiar Web2 methods like email, SMS, or passkeys, instantly creating a secure Miden wallet in the background.
+The biggest barrier to crypto adoption is the onboarding process (browser extensions, storing seed phrases, complex wallet setups).
