@@ -56,3 +56,4 @@ Just as Ethereum uses multiple client softwares to prevent a single bug from tak
 The Miden × Ligero stack enables Programmable Compliance. Institutions can keep their transactions completely private while encoding regulatory rules (KYC/AML) directly into the system, adapting to different global jurisdictions automatically.
 Enterprises cannot use public blockchains because they expose sensitive data (like salaries or OTC trading strategies). Conversely, regulators hate "black box" crypto mixers that hide illicit activity.
 Mainstream Validation: Ligero’s cryptography is not experimental Web3 theory; it has already been adopted by Google for Google Wallet, proving it is ready for massive scale.
+The Upgrade: Miden already relies on local, client-side proof generation. Ligero’s technology supercharges this, aiming to cut the time it takes to generate a proof on a phone or browser from 10-15 seconds down to around 1 second.
