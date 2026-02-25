@@ -10,3 +10,7 @@ On Ethereum (e.g., Safe) or Solana (e.g., Squads), multisigs are easy because ev
 The Problem: Privacy Breaks Coordination
 The article explains how Miden, in partnership with OpenZeppelin, solves the unique challenge of building a multi-signature (multisig) wallet on a privacy-by-default blockchain. In traditional blockchains, multisigs rely on public transparency so all signers can see the exact same state and transaction. Because Miden stores account state locally and privately, signers could easily fall out of sync. To fix this, Miden introduces Private State Management (PSM), an off-chain coordination system that ensures all signers stay synchronized on the latest private state without exposing their data to the public network.
 Privacy infrastructure doesn't matter if everyday people can't use the apps. This is how we bring real-world finance on-chain.
+The new onboarding stack:
+• Frictionless: Sign in with Email, SMS, or Passkey.
+• Self-Custodial: Distributed MPC authentication keeps users in control.
+• Compliant Privacy: Enterprise-grade privacy meets Web2 usability.
