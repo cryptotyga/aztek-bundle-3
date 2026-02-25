@@ -30,3 +30,4 @@ The formula for Real-World Finance on-chain:
 Institutions won't touch private blockchains without battle-tested security.
 Institutions require a stack that guarantees both Privacy (hiding trading strategies and user data) and Safety (preventing smart contract exploits). Together, Miden and OpenZeppelin provide the exact foundation necessary to safely bring traditional finance on-chain.
 To scale effectively, Miden needs similar standardized, secure Rust-based components for its developers, drastically reducing the risk of vulnerabilities in custom code.
+OpenZeppelin is the gold standard for EVM smart contract libraries (e.g., ERC-20, AccessControl).
