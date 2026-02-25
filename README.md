@@ -28,3 +28,4 @@ The formula for Real-World Finance on-chain:
 • Miden: Default privacy & infinite scale (ZK + Actor Model).
 • OpenZeppelin: Ironclad smart contract security & standards.
 Institutions won't touch private blockchains without battle-tested security.
+Institutions require a stack that guarantees both Privacy (hiding trading strategies and user data) and Safety (preventing smart contract exploits). Together, Miden and OpenZeppelin provide the exact foundation necessary to safely bring traditional finance on-chain.
