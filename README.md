@@ -35,3 +35,5 @@ OpenZeppelin brings battle-tested auditing and security frameworks to ensure Mid
 Privacy networks introduce novel architectures (like Miden's Actor Model and local execution) which require entirely new security paradigms.
 The Miden and OpenZeppelin collaboration bridges the gap between privacy and institutional-grade safety. For real-world finance to move on-chain, networks must offer both confidentiality (Miden's edge execution) and ironclad security (OpenZeppelin's industry-standard smart contract audits and libraries).
 Privacy is no longer a niche feature. It’s the prerequisite for bringing real-world finance on-chain.
+The result is Programmable Compliance.
+Institutions get total privacy from the public, but can still encode KYC/AML rules to keep regulators happy.
