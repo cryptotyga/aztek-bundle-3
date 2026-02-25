@@ -14,3 +14,4 @@ The new onboarding stack:
 • Frictionless: Sign in with Email, SMS, or Passkey.
 • Self-Custodial: Distributed MPC authentication keeps users in control.
 • Compliant Privacy: Enterprise-grade privacy meets Web2 usability.
+Web3 UX is fundamentally broken. Seed phrases and browser extensions kill mass adoption before it even starts.
