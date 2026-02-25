@@ -42,3 +42,12 @@ Here is the resulting privacy stack:
 • Ligero: Supercharged client-side proving (1-second mobile proofs).
 Institutions aren't ignoring crypto; they are ignoring public ledgers.
 You can't put corporate payroll or OTC trading strategies on a fully transparent chain.
+This tech stack specifically targets multi-billion dollar traditional finance use cases that have previously been blocked from Web3:
+
+Payroll Automation: Paying employees on-chain without making their salaries public.
+
+Private OTC Trading: Allowing institutions to execute massive trades without tipping off the market.
+
+Compliant Privacy Pools: Legal, regulator-approved privacy for transferring assets.
+
+Cross-Border Payments: Fast, private, and compliant global transfers.
