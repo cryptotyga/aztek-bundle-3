@@ -51,3 +51,4 @@ Private OTC Trading: Allowing institutions to execute massive trades without tip
 Compliant Privacy Pools: Legal, regulator-approved privacy for transferring assets.
 
 Cross-Border Payments: Fast, private, and compliant global transfers.
+Integrating Ligero alongside Miden’s native prover adds a layer of systemic security and redundancy to the network.
