@@ -19,3 +19,4 @@ Instead of spending months building custom key management and onboarding flows, 
 Developers can now build regulated fintech apps, institutional finance platforms, and Real-World Asset (RWA) payment rails that feel as easy to use as Apple Pay or Venmo, but run on private, decentralized rails.
 Combining Miden’s compliant privacy layer with Para’s frictionless UX enables entirely new categories of applications.
 Para uses Distributed Multi-Party Computation (MPC) authentication, meaning users retain full ownership of their cryptographic keys and assets, perfectly aligning with Miden's zero-knowledge execution model.
+Despite the Web2-like login, the wallets remain fully self-custodial.
