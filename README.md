@@ -40,3 +40,5 @@ Institutions get total privacy from the public, but can still encode KYC/AML rul
 Here is the resulting privacy stack:
 • Miden: The on-chain verifiable layer.
 • Ligero: Supercharged client-side proving (1-second mobile proofs).
+Institutions aren't ignoring crypto; they are ignoring public ledgers.
+You can't put corporate payroll or OTC trading strategies on a fully transparent chain.
